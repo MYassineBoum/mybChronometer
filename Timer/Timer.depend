@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1670075810 source:c:\users\lenovo\desktop\cpp_projects\timer\timer\main.cpp
+	<iostream>
+	<Windows.h>
+	<windows.h>
+	<cwchar>
+	<stdlib.h>
+	<unistd.h>
+	<string.h>
+	<string>
+	<dos.h>
+
