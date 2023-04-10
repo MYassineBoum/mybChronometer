@@ -107,7 +107,7 @@ int main()
     cout << "-------------------------------------------------------------------------------------------------" << endl << endl;
 
     cout << "-----------------------------------------------------------------------------------------------------------------------" << endl;
-    cout << "IMPORTANT: For letters 'P', 'C' and 'R', press them longer when you to use, else the letter you type won't be detected!" << endl;
+    cout << "IMPORTANT: For letters 'P', 'C' and 'R', press them longer when you want to use, else the letter you type won't be detected!" << endl;
     cout << "-----------------------------------------------------------------------------------------------------------------------" << endl << endl;
 
     cout << "-------------------------------------" << endl;
